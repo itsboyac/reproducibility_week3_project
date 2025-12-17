@@ -1,2 +1,3 @@
 # MLOps-1
-This project is for MLOps practice. 
+This is my repository for the Reproducibility & Model Deployment course.
+Author: Boya Chuang
